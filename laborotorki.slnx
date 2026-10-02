@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="laborotorki/laborotorki.vcxproj" />
+  <Project Path="laborotorki/laborotorki.vcxproj" Id="b073dd3f-2a7e-46c0-9adc-802ea606f93b" />
 </Solution>
